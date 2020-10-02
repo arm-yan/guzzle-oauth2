@@ -1,11 +1,11 @@
 <?php
 
-namespace CommerceGuys\Guzzle\Oauth2\Tests\GrantType;
+namespace ArmYan\Guzzle\Oauth2\Tests\GrantType;
 
-use CommerceGuys\Guzzle\Oauth2\GrantType\ClientCredentials;
-use CommerceGuys\Guzzle\Oauth2\GrantType\RefreshToken;
-use CommerceGuys\Guzzle\Oauth2\Oauth2Subscriber;
-use CommerceGuys\Guzzle\Oauth2\Tests\TestBase;
+use ArmYan\Guzzle\Oauth2\GrantType\ClientCredentials;
+use ArmYan\Guzzle\Oauth2\GrantType\RefreshToken;
+use ArmYan\Guzzle\Oauth2\Oauth2Subscriber;
+use ArmYan\Guzzle\Oauth2\Tests\TestBase;
 
 class OAuth2SubscriberTest extends TestBase
 {

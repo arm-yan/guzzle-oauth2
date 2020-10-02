@@ -1,8 +1,8 @@
 <?php
 
-namespace CommerceGuys\Guzzle\Oauth2\GrantType;
+namespace ArmYan\Guzzle\Oauth2\GrantType;
 
-use CommerceGuys\Guzzle\Oauth2\AccessToken;
+use ArmYan\Guzzle\Oauth2\AccessToken;
 
 interface GrantTypeInterface
 {

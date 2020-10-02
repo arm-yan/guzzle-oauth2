@@ -1,9 +1,9 @@
 <?php
 
-namespace CommerceGuys\Guzzle\Oauth2\Tests\GrantType;
+namespace ArmYan\Guzzle\Oauth2\Tests\GrantType;
 
-use CommerceGuys\Guzzle\Oauth2\GrantType\PasswordCredentials;
-use CommerceGuys\Guzzle\Oauth2\Tests\TestBase;
+use ArmYan\Guzzle\Oauth2\GrantType\PasswordCredentials;
+use ArmYan\Guzzle\Oauth2\Tests\TestBase;
 
 class PasswordCredentialsTest extends TestBase
 {

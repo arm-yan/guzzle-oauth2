@@ -1,9 +1,9 @@
 <?php
 
-namespace CommerceGuys\Guzzle\Oauth2;
+namespace ArmYan\Guzzle\Oauth2;
 
-use CommerceGuys\Guzzle\Oauth2\GrantType\GrantTypeInterface;
-use CommerceGuys\Guzzle\Oauth2\GrantType\RefreshTokenGrantTypeInterface;
+use ArmYan\Guzzle\Oauth2\GrantType\GrantTypeInterface;
+use ArmYan\Guzzle\Oauth2\GrantType\RefreshTokenGrantTypeInterface;
 use GuzzleHttp\Event\BeforeEvent;
 use GuzzleHttp\Event\ErrorEvent;
 use GuzzleHttp\Event\RequestEvents;

@@ -1,4 +1,4 @@
-guzzle-oauth2-plugin
+guzzle-oauth2
 ====================
 
 Provides an OAuth2 plugin (subscriber) for [Guzzle](http://guzzlephp.org/).
@@ -11,7 +11,7 @@ Version 2.x (on the `master` branch) is intended for Guzzle 5:
         "arm-yan/guzzle-oauth2": "~2.0"
 ```
 
-Guzzle 3 compatibility continues in the [`1.0`](https://github.com/commerceguys/guzzle-oauth2-plugin/tree/1.0) branch:
+Guzzle 3 compatibility continues in the [`1.0`](https://github.com/arm-yan/guzzle-oauth2/tree/1.0) branch:
 ```json
         "arm-yan/guzzle-oauth2": "~1.0"
 ```
@@ -30,9 +30,9 @@ First make sure you have all the dependencies in place by running `composer inst
 ## Example
 ```php
 use GuzzleHttp\Client;
-use CommerceGuys\Guzzle\Oauth2\GrantType\RefreshToken;
-use CommerceGuys\Guzzle\Oauth2\GrantType\PasswordCredentials;
-use CommerceGuys\Guzzle\Oauth2\Oauth2Subscriber;
+use ArmYan\Guzzle\Oauth2\GrantType\RefreshToken;
+use ArmYan\Guzzle\Oauth2\GrantType\PasswordCredentials;
+use ArmYan\Guzzle\Oauth2\Oauth2Subscriber;
 
 $base_url = 'https://example.com';
 

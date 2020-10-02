@@ -1,9 +1,9 @@
 <?php
 
-namespace CommerceGuys\Guzzle\Oauth2\Tests\GrantType;
+namespace ArmYan\Guzzle\Oauth2\Tests\GrantType;
 
-use CommerceGuys\Guzzle\Oauth2\GrantType\JwtBearer;
-use CommerceGuys\Guzzle\Oauth2\Tests\TestBase;
+use ArmYan\Guzzle\Oauth2\GrantType\JwtBearer;
+use ArmYan\Guzzle\Oauth2\Tests\TestBase;
 use SplFileObject;
 
 class JwtBearerTest extends TestBase

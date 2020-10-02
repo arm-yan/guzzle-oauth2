@@ -1,6 +1,6 @@
 <?php
 
-namespace CommerceGuys\Guzzle\Oauth2\Tests;
+namespace ArmYan\Guzzle\Oauth2\Tests;
 
 use GuzzleHttp\Ring\Client\MockHandler;
 

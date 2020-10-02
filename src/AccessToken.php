@@ -1,6 +1,6 @@
 <?php
 
-namespace CommerceGuys\Guzzle\Oauth2;
+namespace ArmYan\Guzzle\Oauth2;
 
 class AccessToken
 {

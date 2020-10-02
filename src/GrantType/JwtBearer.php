@@ -1,6 +1,6 @@
 <?php
 
-namespace CommerceGuys\Guzzle\Oauth2\GrantType;
+namespace ArmYan\Guzzle\Oauth2\GrantType;
 
 use GuzzleHttp\ClientInterface;
 use JWT;
