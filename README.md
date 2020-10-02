@@ -8,12 +8,12 @@ Provides an OAuth2 plugin (subscriber) for [Guzzle](http://guzzlephp.org/).
 
 Version 2.x (on the `master` branch) is intended for Guzzle 5:
 ```json
-        "commerceguys/guzzle-oauth2-plugin": "~2.0"
+        "arm-yan/guzzle-oauth2": "~2.0"
 ```
 
 Guzzle 3 compatibility continues in the [`1.0`](https://github.com/commerceguys/guzzle-oauth2-plugin/tree/1.0) branch:
 ```json
-        "commerceguys/guzzle-oauth2-plugin": "~1.0"
+        "arm-yan/guzzle-oauth2": "~1.0"
 ```
 
 ## Features
