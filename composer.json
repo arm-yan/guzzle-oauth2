@@ -1,5 +1,5 @@
 {
-    "name": "arm-yan/guzzle-oauth2-plugin",
+    "name": "arm-yan/guzzle-oauth2",
     "description": "An OAuth2 plugin (subscriber) for Guzzle",
     "license": "MIT",
     "require": {
