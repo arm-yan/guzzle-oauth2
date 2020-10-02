@@ -30,9 +30,9 @@ First make sure you have all the dependencies in place by running `composer inst
 ## Example
 ```php
 use GuzzleHttp\Client;
-use CommerceGuys\Guzzle\Oauth2\GrantType\RefreshToken;
-use CommerceGuys\Guzzle\Oauth2\GrantType\PasswordCredentials;
-use CommerceGuys\Guzzle\Oauth2\Oauth2Subscriber;
+use ArmYan\Guzzle\Oauth2\GrantType\RefreshToken;
+use ArmYan\Guzzle\Oauth2\GrantType\PasswordCredentials;
+use ArmYan\Guzzle\Oauth2\Oauth2Subscriber;
 
 $base_url = 'https://example.com';
 
